@@ -1,3 +1,4 @@
+![1000003504](https://github.com/user-attachments/assets/409e2601-9cd6-4dcd-8d95-549078def70c)
 ### 更新日志
 * 修复在拨号器中输入暗码启动管理器无效的问题
 * 修复三星设备上的通知问题
